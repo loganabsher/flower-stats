@@ -1,0 +1,29 @@
+{
+  "name": "flower-stats",
+  "version": "1.0.0",
+  "description": "keeps track of flower stats",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganabsher/flower-stats.git"
+  },
+  "keywords": [
+    "Logan",
+    "Absher",
+    "flowers"
+  ],
+  "author": "Logan Absher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loganabsher/flower-stats/issues"
+  },
+  "homepage": "https://github.com/loganabsher/flower-stats#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "page": "^1.7.1"
+  }
+}
