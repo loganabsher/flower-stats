@@ -1,0 +1,31 @@
+#title h1{
+  text-align: center;
+  margin: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#title nav{
+  float: right;
+}
+#title nav ul{
+  margin: 0px;
+}
+#title nav ul li{
+  list-style: none;
+}
+.icon-list2{
+  float: right;
+}
+#drop-down{
+  float: right;
+}
+#drop-down ul{
+  margin: 0px;
+}
+#drop-down ul li{
+  list-style: none;
+}
+
+
+@media only screen and (max-width: 400px){
+}
